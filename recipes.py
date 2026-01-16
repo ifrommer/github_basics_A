@@ -6,5 +6,6 @@ recipes = {
     "blueberry muffins": ["blueberries", "flour", "sugar", "baking soda"]
     "chocolate chip cookie": ["chocolate chips", "flour", "sugar"], 
     "coffee cake": ["sugar", "cinnamon", "flour", "baking soda"],
-    "lemonade": ["lemons","water","sugar"]
+    "lemonade": ["lemons","water","sugar"],
+    "hot chocolate": ["choc", "milk"]
 }
