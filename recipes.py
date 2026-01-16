@@ -8,4 +8,6 @@ recipes = {
     "coffee cake": ["sugar", "cinnamon", "flour", "baking soda"],
     "lemonade": ["lemons","water","sugar"],
     "hot chocolate": ["choc", "milk"]
+    "waffles": ["flour", "milk", "eggs"]
+
 }
