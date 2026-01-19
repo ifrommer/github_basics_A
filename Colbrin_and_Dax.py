@@ -6,3 +6,5 @@ This is a temporary script file.
 """
 #This is a file for Dax and Colbrin to do Homework 1 in.
 print("Hello world, this is now DST")
+
+print("I have no idea how to do this, please help")
