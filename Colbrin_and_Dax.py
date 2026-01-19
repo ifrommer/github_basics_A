@@ -8,3 +8,5 @@ This is a temporary script file.
 print("Hello world, this is now DST")
 
 print("I have no idea how to do this, please help")
+
+print("I can try to help, but I'm just as lost here too")
