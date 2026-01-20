@@ -10,3 +10,6 @@ print("Hello world, this is now DST")
 # This is another push test
 print("IT WORKS!!!")
 
+# Time for the merge test
+print("Hope this works")
+
